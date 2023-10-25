@@ -1,4 +1,4 @@
 # Audio-Visualizer
 Why not abstract it to heck.
 
-[Sample of visualizer, yes.](VSR.png)
+![Sample](Samples/Images/VSR.png)
